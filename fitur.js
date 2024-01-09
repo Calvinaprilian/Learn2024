@@ -1,2 +1,5 @@
-console.log('belajar programming')
-console.log(add(4,5));
+const add = (a, b) => a + b;
+console.log(add(1,2));
+
+const subtract = (a, b) => a - b;
+console.log(subtract(5,3));
