@@ -10,3 +10,4 @@ console.log(multiplyNumber(3,5));
 const divide = (a, b) => a / b;
 console.log(divide(8,2));
 
+console.log(add(7,3));
